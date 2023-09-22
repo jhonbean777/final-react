@@ -1,0 +1,64 @@
+{
+  "employee": [
+    {
+      "name": "rohini",
+      "email": "snehal3@gmil.com",
+      "phone": "+345678912",
+      "id": 2
+    },
+    {
+      "name": "Rohini",
+      "email": "rohini90@gmail.com",
+      "phone": "+12345678912",
+      "id": 3
+    },
+    {
+      "name": "sdf",
+      "email": "sdf2@g.b",
+      "phone": "+1234567891",
+      "id": 4
+    },
+    {
+      "name": "rhrte",
+      "email": "rt4@v.b",
+      "phone": "+919456783245",
+      "id": 7
+    },
+    {
+      "name": "sdf",
+      "email": "dsfd2@b.v",
+      "phone": "+912345678912",
+      "id": 8
+    },
+    {
+      "name": "err",
+      "email": "dfdf2@f.v",
+      "phone": "+931234567891",
+      "id": 9
+    },
+    {
+      "name": "sdf",
+      "email": "aartisangale10@gmail.com",
+      "phone": "+919307688236",
+      "id": 10
+    },
+    {
+      "name": "zulfeen",
+      "email": "aartisangale10@gmail.com",
+      "phone": "+9307688236",
+      "id": 11
+    },
+    {
+      "name": "sadds",
+      "email": "zuldee4@gmail.com",
+      "phone": "+93076334562",
+      "id": 12
+    },
+    {
+      "name": "Neha",
+      "email": "nehaw9@gmail.com",
+      "phone": "+912345678901",
+      "id": 13
+    }
+  ]
+}
